@@ -1,0 +1,9 @@
+entity_id,country_code,jurisdiction_name,risk_tier,risk_score,fatf_status,flag_reason
+RSK-01,CY,Cyprus,High,0.78,Monitored,Offshore shell banking exposure
+RSK-02,PA,Panama,Critical,0.92,Increased Monitoring,High corporate opacity index
+RSK-03,VG,British Virgin Islands,Critical,0.95,High Risk,Jurisdiction tax haven / trust sanctuary
+RSK-04,MT,Malta,Medium,0.65,Standard,Unregulated VASP corridor scrutiny
+RSK-05,SG,Singapore,Low,0.20,Compliant,Standard commercial trade hub
+RSK-06,US,United States,Low,0.10,Compliant,Standard low-risk corridor
+RSK-07,GB,United Kingdom,Low,0.15,Compliant,Standard low-risk corridor
+RSK-08,DE,Germany,Low,0.12,Compliant,Standard low-risk corridor
