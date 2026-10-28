@@ -1,1 +1,0 @@
-pip install jaydebeapi pandas matplotlib seaborn
